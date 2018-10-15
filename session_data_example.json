@@ -1,0 +1,126 @@
+{
+    "isPortalInitialized" : true,
+    "flightOffersInternetService": true,
+    "internetConnectionIsAvailable": true,
+    "devicePlatform" : "Other",
+    "host" : "www.unitedwifi.com",
+    "IsLoggedIn": true ,
+    "isSubscriptionAvailable": true,
+    "internet": {
+      "accessType": "HOURLY",
+      "tier": "T2",
+      "tierDescription": "Basic",
+      "fulfilmentState": "ACTIVE",
+      "orderState": "ACTIVE",
+      "timeRemaining": 36
+    }
+        ,  
+    "flifo": {
+        "originAirportCode": "LHR",
+        "originCity": "London",
+        "originState": "GB ",
+        "destinationAirportCode": "SFO",
+        "destinationCity": "San Francisco",
+        "destinationState": "CA ",
+        "scheduledDepartureTimeLocal": "15 Oct 2018 10:25 AM",
+        "scheduledArrivalTimeLocal": "15 Oct 2018 1:35 PM",
+        "estimatedDepartureTimeLocal": "15 Oct 2018 10:25 AM",
+        "estimatedArrivalTimeLocal": "15 Oct 2018 1:33 PM",
+        "actualDepartureTimeLocal": "15 Oct 2018 10:22 AM",
+        "actualArrivalTimeLocal": "01 Jan 0001 12:00 AM",
+        "flightStatus": "In Flight - Estimated to Arrive 2 Minutes Early",
+        "isFake": false,
+        "flightNumber": "900",
+        "flightGuid": "216df213-0a4f-4c59-8699-2c46da5127a2",
+        "timeRemainingToDestination": 410,
+        "flightDurationMinutes" : 670,
+        "flightMapPath": "/portal/images/map/TabletLandscape.png?1539609914",
+        "scheduledDepartureTime": "10:25 a.m.",
+        "actualDepartureTime": "10:22 a.m.",
+        "scheduledArrivalTime": "1:35 p.m.",
+        "estimatedArrivalTime": "1:33 p.m.",
+        "departureGate": "B33",
+        "arrivalGate": "95",
+        "departureTerminal": "Terminal 2",
+        "arrivalTerminal": "International Terminal",
+        "departureConcourse": "",
+        "arrivalConcourse": " Concourse G",
+        "aircraftModel": "Boeing 777-222",
+        "noseNumber": "2826",
+        "equipmentCode": "77Q",
+        "airSpeedMPH": "20",
+        "airSpeedKPH": "31",
+        "windDirection": "S",
+        "groundSpeedMPH": "555",
+        "groundSpeedKPH": "893",
+        "airTemperatureF": "-67",
+        "airTemperatureC": "-55",
+        "altitudeFt": "34001",
+        "altitudeMeters": "10363"
+    }
+    
+    	    ,
+	    "weather": {
+	        "currently": {
+	            "day": "Mon",
+	            "code": "31",
+	            "currtempf": 63,
+	            "currtempc": 17,
+	            "lowtempf": 63,
+	            "hightempf": 63,
+	            "lowtempc": 17,
+	            "hightempc": 17,
+	            "text": "Clear"
+	        },
+	        "forecast": [
+	        	            {
+	                "day": "Tue",
+	                "code": 32,
+	                "lowtempf": 50,
+	            	"hightempf": 71,
+	            	"lowtempc": 10,
+	            	"hightempc": 21,
+	                "text": "Sunny"
+	            },
+	        	            {
+	                "day": "Wed",
+	                "code": 32,
+	                "lowtempf": 52,
+	            	"hightempf": 70,
+	            	"lowtempc": 11,
+	            	"hightempc": 21,
+	                "text": "Sunny"
+	            },
+	        	            {
+	                "day": "Thu",
+	                "code": 30,
+	                "lowtempf": 52,
+	            	"hightempf": 70,
+	            	"lowtempc": 11,
+	            	"hightempc": 21,
+	                "text": "Partly Cloudy"
+	            },
+	        	            {
+	                "day": "Fri",
+	                "code": 30,
+	                "lowtempf": 52,
+	            	"hightempf": 71,
+	            	"lowtempc": 11,
+	            	"hightempc": 22,
+	                "text": "Partly Cloudy"
+	            },
+	        	            {
+	                "day": "Sat",
+	                "code": 30,
+	                "lowtempf": 54,
+	            	"hightempf": 70,
+	            	"lowtempc": 12,
+	            	"hightempc": 21,
+	                "text": "Partly Cloudy"
+	            },
+	        
+	        "lastitem"
+	        ]
+	    }
+    
+}
